@@ -15,25 +15,19 @@ st.markdown(
 )
 
 
-st.title('''UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\n
+st.title('''Diccionario\n
 
             ''',)
 
-st.header('FACULTAD DE ESTUDIOS SUPERIORES ACATLÁN')
 
-st.header('MÉTODOS NUMERICOS II')
 
 st.subheader('''
 PROFESOR\n
-_Julio César Galindo López_
+_César Gal_
 ''')
 
-st.subheader('''''')
 
-st.subheader('''
-        Presenta \n
-        *Nombre de los Integrantes
-''')
+
 
 
 
