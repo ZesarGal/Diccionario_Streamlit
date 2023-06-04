@@ -1,11 +1,4 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-
-import matplotlib.pyplot as plt
-from sympy.plotting.plot import MatplotlibBackend, Plot
-from sympy.plotting import plot3d,plot3d_parametric_line
-import plotly as ply
 import base64
 
 file1_ = open("./Im1.png", "rb")
