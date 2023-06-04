@@ -9,10 +9,9 @@ contents1 = file1_.read()
 data_url1 = base64.b64encode(contents1).decode("utf-8")
 file1_.close()
 
-st.markdown(
-    f'<img src="data:image/gif;base64,{data_url1}" alt="Escudo_Unam">',
-    unsafe_allow_html=True,
-)
+import streamlit as st
+
+st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)")
 
 
 st.title('''Diccionario\n
