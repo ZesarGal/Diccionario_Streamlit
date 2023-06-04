@@ -11,7 +11,7 @@ file1_.close()
 
 import streamlit as st
 
-st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)")
+st.markdown("![Alt Text](https://media.giphy.com/media/XxHVJxuogNP32/giphy.gif)")
 
 
 st.title('''Diccionario\n
