@@ -18,7 +18,6 @@ st.title('''Diccionario\n
 
             ''',)
 
-file = open(r"path", 'rb')
 contents = file.read()
 data_url = base64.b64encode(contents).decode('utf-8-sig')
 file.close()
