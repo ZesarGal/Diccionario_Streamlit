@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import sympy 
+
 from matplotlib import pyplot as plt
 from sympy.plotting.plot import MatplotlibBackend, Plot
 from sympy.plotting import plot3d,plot3d_parametric_line
