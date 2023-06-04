@@ -22,7 +22,6 @@ st.title('''Diccionario\n
 
 
 st.subheader('''
-PROFESOR\n
 _César Gal_
 ''')
 
