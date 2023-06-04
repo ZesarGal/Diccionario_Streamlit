@@ -11,6 +11,10 @@ import base64
 
 #import streamlit as st
 
+st.write("# Bienvenido b*tch! 👋")
+
+st.sidebar.success("Selecciona el área.")
+
 st.markdown("![Alt Text](https://media.giphy.com/media/XxHVJxuogNP32/giphy.gif)")
 
 
@@ -23,7 +27,6 @@ st.title('''Diccionario\n
 #file.close()
 #st.markdown(f'<img src="data:image/gif;base64,{data_url}>',unsafe_allow_html = True)
 
-st.sidebar.title(f"Hola {name}")
 
 
 st.subheader('''
